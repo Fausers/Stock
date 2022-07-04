@@ -6,10 +6,10 @@
 <!-- Mirrored from preview.keenthemes.com/metronic8/demo1/dark/authentication/layouts/aside/sign-in.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 May 2022 07:53:57 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-		<title>{{config('app.name','SSL Tools')}}</title>
+		<title>{{config('app.name','Stock Manager')}}</title>
 		<meta charset="utf-8" />
-		<meta name="description" content="SSL Tools." />
-		<meta name="keywords" content="SSL Tools Description" />
+		<meta name="description" content="Stock Manager." />
+		<meta name="keywords" content="Stock Manager Description" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="article" />
@@ -47,11 +47,11 @@
 						<div class="d-flex flex-row-fluid flex-column text-center p-10 pt-lg-20">
 							<!--begin::Logo-->
 							<a  class="py-9 mb-5">
-								<img alt="Logo" src="{{url('/')}}/logo/Simu Logo White.png" class="h-60px" />
+{{--								<img alt="Logo" src="{{url('/')}}/logo/Simu Logo White.png" class="h-60px" />--}}
 							</a>
 							<!--end::Logo-->
 							<!--begin::Title-->
-							<h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Welcome to<br> Simusolar Portal</h1>
+							<h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Welcome to<br> Stock Manager</h1>
 							<!--end::Title-->
 							<!--begin::Description-->
 
